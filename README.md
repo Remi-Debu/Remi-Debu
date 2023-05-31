@@ -26,4 +26,4 @@
 ### :mag_right: Si vous souhaitez me contacter
 
 - 🚀 [Mon LinkedIn](https://www.linkedin.com/in/r%C3%A9mi-debusschere/)
-- ✉️ Mon email : (debu.remi@gmail.com)
+- ✉️ Mon email : debu.remi@gmail.com
