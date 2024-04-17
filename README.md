@@ -22,8 +22,3 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a>
     <a href="https://symfony.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" alt="docker icon" width="40" height="40"/> </a>
-
-### :mag_right: Si vous souhaitez me contacter
-
-- 🚀 [Mon LinkedIn](https://www.linkedin.com/in/r%C3%A9mi-debusschere/)
-- ✉️ Mon email : debu.remi@gmail.com
