@@ -1,10 +1,9 @@
-# Hi 👋, I'm Rémi
-🔭 I’m currently working on<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>
-⚡ Fun fact</br>
+# 👋 Hi there, I'm Rémi
+
+I'm a coding enthusiast always ready to explore new ideas and take on challenges.</br>
+Feel free to browse through my repositories and reach out to me.</br> 
+Let's make something awesome together !
+
 
 [![](https://visitcount.itsvg.in/api?id=Remi-Debu&icon=6&color=2)](https://visitcount.itsvg.in)</br>
 
@@ -34,7 +33,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Remi-Debu&theme=gruvbox&show_icons=true&include_all_commits=true&count_private=true)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Remi-Debu&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Remi-Debu&theme=gruvbox&margin-w=10)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
