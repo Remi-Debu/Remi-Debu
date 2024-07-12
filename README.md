@@ -4,9 +4,11 @@
 🤝 I’m looking for help with<br>
 🌱 I’m currently learning<br>
 💬 Ask me about<br>
-⚡ Fun fact
+⚡ Fun fact</br>
 
-# 💻 Tech Stack
+[![](https://visitcount.itsvg.in/api?id=Remi-Debu&icon=6&color=2)](https://visitcount.itsvg.in)</br>
+
+## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -28,16 +30,11 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Remi-Debu&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Remi-Debu&theme=tokyonight)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Remi-Debu&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Remi-Debu&theme=gruvbox&show_icons=true&include_all_commits=true&count_private=true)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Remi-Debu&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Remi-Debu&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=Remi-Debu&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
